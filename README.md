@@ -3,6 +3,8 @@ Mi primer repositorio de pruebas
 
 Emilio Bolinches
 
+Ahora estoy añadiendo cosas a la versión readme-edits
+
 
 Características
 
